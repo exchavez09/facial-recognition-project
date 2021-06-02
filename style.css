@@ -1,14 +1,14 @@
 body {
-    background-color: red;
+    background-color: yellow;
     color: aliceblue;
 }
 #camera{
     width: 450px;
     height: 450px;
-    border: 2px solid yellow;
+    border: 2px solid rgba(0, 89, 255, 0.726);
 }
 #result{
     width: 450px;
     height: 450px;
-    border: 2px solid yellow;
+    border: 2px solid rgba(0, 89, 255, 0.726);
 }
